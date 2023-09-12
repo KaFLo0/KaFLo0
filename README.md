@@ -22,16 +22,16 @@ Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando m
 
 ## Projetos 📜
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaflo0&repo=finans-financas-pessoais&bg_color=DEG,FFFFB7,FFF192,FFEA61,FFDD3C,FFD400&border_radius=10&hide_border=true&show_icons=true&icon_color=000&title_color=000&text_color=000&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/finans-financas-pessoais)<br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaflo0&repo=game-mata-mosquito&theme=maroongold&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/game-mata-mosquito)
+[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=finans-financas-pessoais&bg_color=DEG,FFFFB7,FFF192,FFEA61,FFDD3C,FFD400&border_radius=10&hide_border=true&show_icons=true&icon_color=000&title_color=000&text_color=000&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/finans-financas-pessoais)<br>
+[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=game-mata-mosquito&theme=maroongold&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/game-mata-mosquito)
 
 ## Linguagens mais utilizadas 🧑‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaflo0&layout=donut&border_radius=10&theme=neon&locale=pt-br)](https://github.com/KaFLo0/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kaflo0.vercel.app/api/top-langs/?username=kaflo0&layout=donut&border_radius=10&theme=neon&locale=pt-br)](https://github.com/KaFLo0/github-readme-stats)
 
 ## Status do GitHub 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaflo0&theme=neon&card_width=400px&border_radius=10&locale=pt-br)
+![GitHub Stats](https://github-readme-stats-kaflo0.vercel.app/api?username=kaflo0&theme=neon&card_width=400px&border_radius=10&locale=pt-br)
 
 ## Interesses Pessoais 🧐
 
