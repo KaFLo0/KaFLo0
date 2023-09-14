@@ -6,15 +6,13 @@ Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando m
 
 ### Ferramentas de programação 🪄
 
-| Linguagem | Framework | Nível de conhecimento |
-|:-----------:|-----------:|--------------------|
-| ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) | N/a | Médio: estrutura de dados, ponteiros e gerenciamento de memória |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | N/a | Médio: Orientação a objetos, arrow functions, funções de callback, dominío dos 4 pilares da OO |
-| ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) | N/a | Básico: Lógica base sobre python, estruturas condicionais e de repetição |
-| ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) | N/a | Avançado: Sites responsivos, com semântica, otimização e integração eficiênte de tecnologias como CSS, BootStrap e JS |
-| ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) | BootStrap | Avançado: estilização e responsividade de sites mobile-first usando layout de Grid, efeitos parallax, carousel, cards |
-| ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) | N/a | Básico: Tabelas, listas, inserção de links e badges clicáveis |
-
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)<br>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![BootStrap](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap)<br>
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ### Outras habilidades: 
 
 - Banco de dados com MySQL
