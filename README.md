@@ -4,24 +4,30 @@ Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando m
 
 ## Habilidades 🤹
 
-### Ferramentas de programação 🪄
+### Linguagens de programação 🪄
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)<br>
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![BootStrap](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap)<br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Bibliotecas, frameworks e outras habilidades
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-### Outras habilidades: 
-
-- Banco de dados com MySQL
-- Versionamento de código com Git/GitHub
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br/>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projetos 📜
 
-[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=finans-financas-pessoais&bg_color=DEG,FFFFB7,FFF192,FFEA61,FFDD3C,FFD400&border_radius=10&hide_border=true&show_icons=true&icon_color=000&title_color=000&text_color=000&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/finans-financas-pessoais)<br>
-[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=game-mata-mosquito&theme=maroongold&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/game-mata-mosquito)
+[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=finans-financas-pessoais&bg_color=DEG,FFFFB7,FFF192,FFEA61,FFDD3C,FFD400&border_radius=10&hide_border=true&show_icons=true&icon_color=000&title_color=000&text_color=000&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/finans-financas-pessoais)
+[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=game-mata-mosquito&theme=radical&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/game-mata-mosquito)<br/>
+[![Repo Card](https://github-readme-stats-kaflo0.vercel.app/api/pin/?username=kaflo0&repo=angular-blog&theme=ocean_dark&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/angular-blog)
 
 ## Linguagens mais utilizadas 🧑‍💻
 
