@@ -1,6 +1,6 @@
 # Sobre mim 👀
 
-Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando meu tempo para estudar programação, um pouco de cada área da programação, mas meu foco atual está sendo o desenvolvimento web💻. Comecei a me interessar pela programação no início de 2023, e desde então estou me aprofundando cada vez mais nesse mundo incrível da programação!
+Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando meu tempo para estudar programação, um pouco de cada área da programação, mas meu foco atual está sendo o desenvolvimento web💻. Comecei a me interessar pela programação no início de 2023, e desde então estou me aprofundando cada vez mais nesse mundo incrível da programação! Ah, já ia me esquecendo de dizer que também sou um estudante de engenharia de software xD
 
 ## Habilidades 🤹
 
