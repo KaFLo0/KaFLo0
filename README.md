@@ -48,4 +48,4 @@ Sobre meu desenvolvimento pessoal, pretendo ser fluente em inglês, e aprender a
 Sinta-se livre para interagir comigo por qualquer um dos contatos abaixo:<br>
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:kaiodavy7@gmail.com)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/KaFLo0)<br>
-> Para uma interação mais informal, me adicione no discord. Meu username é: kaflo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-davy-costa-200338293/)
