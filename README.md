@@ -28,6 +28,7 @@ Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando m
 [![Repo Card](https://github-readme-stats-zeta-indol-82.vercel.app/api/pin/?username=KaFLo0&repo=finans-financas-pessoais&bg_color=DEG,FFFFB7,FFF192,FFEA61,FFDD3C,FFD400&border_radius=10&hide_border=true&show_icons=true&icon_color=000&title_color=000&text_color=000&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/finans-financas-pessoais)
 [![Repo Card](https://github-readme-stats-zeta-indol-82.vercel.app/api/pin/?username=KaFLo0&repo=game-mata-mosquito&theme=radical&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/game-mata-mosquito)<br/>
 [![Repo Card](https://github-readme-stats-zeta-indol-82.vercel.app/api/pin/?username=KaFLo0&repo=angular-blog&theme=ocean_dark&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/angular-blog)
+[![Repo Card](https://github-readme-stats-zeta-indol-82.vercel.app/api/pin/?username=KaFLo0&repo=C_codigos_avulsos&theme=radical&border_radius=10&hide_border=true&show_owner=true&locale=pt-br)](https://github.com/KaFLo0/C_codigos_avulsos)
 
 ## Linguagens mais utilizadas 🧑‍💻
 
