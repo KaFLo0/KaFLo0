@@ -1,6 +1,6 @@
 # Sobre mim 👀
 
-Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando meu tempo para estudar programação, um pouco de cada área da programação, mas meu foco atual está sendo o desenvolvimento web💻. Comecei a me interessar pela programação no início de 2023, e desde então estou me aprofundando cada vez mais nesse mundo incrível da programação! Ah, já ia me esquecendo de dizer que também sou um estudante de engenharia de software xD
+Olá! Eu sou o Kaio. Atualmente estou dedicando meu tempo para o estudo de engenharia de software na faculdade, por fora estou me aprofundando em gerenciamento de empresas e finanças; agora voltando para o mundo do software, eu amo os temas de Cyber Security e o funcionamento fundamental por trás dos sistemas computacionais. Comecei a me interessar pela programação no início de 2023, e desde então estou me aprofundando cada vez mais neste incrível mundo!
 
 ## Habilidades 🤹
 
@@ -40,8 +40,9 @@ Olá! Eu sou o Kaio, mas pode me chamar de *KaFLo*. Atualmente estou dedicando m
 
 ## Interesses Pessoais 🧐
 
-Fora do ambiente de programação, eu gosto muito de passar um tempinho em videogames 🎮. Também gosto muito de ler, da natureza, de música (de preferência um bom rock🎸).<br>
-Sobre meu desenvolvimento pessoal, pretendo ser fluente em inglês, e aprender a falar alemão, francês e russo. Sobre uma área específica de programação, eu ainda não me decidi 🤷😑.
+Fora do ambiente de programação, eu gosto muito de passar um tempinho em videogames 🎮. Também gosto muito de ler, da natureza e de música (de preferência um bom rock🎸).<br><br>
+Sobre meu desenvolvimento pessoal, tenho um nível avançado em inglês, sustentando conversas sobre temas diversos, como já fiz uma vez quando conversei com dois jovens nativos dos E.U.A, além de jogar e me comunicar verbalmente e também de forma textual em servidores estrangeiros que estão em inglês.<br><br>
+Agora escrevo feliz que não é apenas um sonho, e sim um futuro próximo em qual eu adquira a tão cobiçada fluência em inglês! Outras duas línguas que me interessam muito, mas ainda estou em nível básico são o espanhol e o russo.
 
 ## Contato 📞
 
